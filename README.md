@@ -1,8 +1,4 @@
 # BaseLoop Name Service (BLNS) - `.blup` Names
----
-<img width="858" height="858" alt="1000108267" src="https://github.com/user-attachments/assets/8d607837-704d-4ee4-a6ab-4d6c919d861a" />
-
----
 
 **BaseLoop Name Service (BLNS)** is a minimal, permissioned name registry on the **Base** network.  
 Wallets that hold enough **BaseLoop (BLUP)** tokens can register short human-readable names under the `.blup` top-level label.
