@@ -1,3 +1,8 @@
+![Built on Base](https://img.shields.io/badge/Built%20on%20Base-blue?logo=coinbase)
+![Base Ecosystem Project](https://img.shields.io/badge/Base%20Ecosystem%20Project-0052ff?logo=coinbase)
+![Base Verified Contract](https://img.shields.io/badge/Base%20Verified%20Contract-0f67ff?logo=coinbase)
+
+
 # BaseLoop Name Service (BLNS) - `.blup` Names
 ---
 <img width="876" height="876" alt="1000108270" src="https://github.com/user-attachments/assets/ecc8f546-28b4-4aae-a42c-0a0af987b948" />
